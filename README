@@ -1,0 +1,9 @@
+---- About ----
+
+nim-netflixroulette is a Nim wrapper around the Netflix Roulette API (http://netflixroulette.net/api/) for getting info about films and shows on Netflix.
+
+See the documentation.html file for usage and more info.
+
+---- License ----
+
+nim-netflixroulette is released under the MIT open source license.
